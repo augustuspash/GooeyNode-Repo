@@ -1,0 +1,39 @@
+{
+    "name": "Beamp",
+    "description": "Beamp - https://github.com/wayspurrchen/beamp",
+    "uri": "beamp",
+    "jar": "excgooey.jar",
+    "gui": [
+        [
+            {
+                "type": "text",
+                "paramid": "input",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output",
+                "name": "Output FIle"
+            }
+        ],
+        [
+            {
+                "type": "number",
+                "paramid": "width",
+                "name": "Width"
+            },
+            {
+                "type": "text",
+                "paramid": "input",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output",
+                "name": "Output FIle"
+            }
+        ]
+    ],
+    "html": "",
+    "script": ""
+}

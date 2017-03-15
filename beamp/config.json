@@ -1,0 +1,34 @@
+{
+    "exc": "node <location here>",
+    "param":[
+        [
+            {
+                "id": "input",
+                "exc": "-f",
+                "req": true
+            },
+            {
+                "id": "output",
+                "exc": "-o",
+                "req": true
+            }
+        ],
+        [
+            {
+                "id": "width",
+                "exc": "-w",
+                "req": true
+            },
+            {
+                "id": "input",
+                "exc": "-f",
+                "req": true
+            },
+            {
+                "id": "output",
+                "exc": "-o",
+                "req": true
+            }
+        ]
+    ]
+}
