@@ -1,0 +1,55 @@
+{
+    "name": "Jpglitch",
+    "description": "Jpglitch - https://github.com/Kareeeeem/jpglitch",
+    "uri": "jpglitch",
+    "jar": "excgooey.jar",
+    "gui": [
+        [
+            {
+                "type": "text",
+                "paramid": "input",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output",
+                "name": "output FIle"
+            }
+        ],
+        [
+            {
+                "type": "radio",
+                "paramid": "jpg",
+                "name": ["Jpg output", "Png output"],
+                "values": ["--jpg", ""]
+            },
+            {
+                "type": "number",
+                "paramid": "a",
+                "name": "Amount (1 to 99)"
+            },
+            {
+                "type": "number",
+                "paramid": "s",
+                "name": "Seed (1 to 99)"
+            },
+            {
+                "type": "number",
+                "paramid": "it",
+                "name": "Iterations (1 to 155)"
+            },
+            {
+                "type": "text",
+                "paramid": "input2",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output2",
+                "name": "Output FIle"
+            }
+        ]
+    ],
+    "html": "",
+    "script": ""
+}

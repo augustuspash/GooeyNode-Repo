@@ -1,0 +1,50 @@
+{
+    "exc": "python <location here>",
+    "param":[
+        [
+            
+            {
+                "id": "output",
+                "exc": "-o",
+                "req": true
+            },
+            {
+                "id": "input",
+                "exc": "",
+                "req": true
+            }
+        ],
+        [
+            {
+                "id": "jpg",
+                "exc": "",
+                "req": true
+            },
+            {
+                "id": "a",
+                "exc": "-a",
+                "req": true
+            },
+            {
+                "id": "s",
+                "exc": "-s",
+                "req": true
+            },
+            {
+                "id": "it",
+                "exc": "-i",
+                "req": true
+            },
+            {
+                "id": "output2",
+                "exc": "-o",
+                "req": true
+            },
+            {
+                "id": "input2",
+                "exc": "",
+                "req": true
+            }
+        ]
+    ]
+}
