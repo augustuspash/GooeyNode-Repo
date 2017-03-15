@@ -1,0 +1,99 @@
+{
+    "name": "ByeByte",
+    "description": "ByeByte",
+    "uri": "byebyte",
+    "jar": "excgooey.jar",
+    "gui": [
+        [
+            {
+                "type": "radio",
+                "paramid": "desshu",
+                "name": [ "Destroy", "Shuffle"],
+                "values": [ "destroy", "shuffle"]
+            },
+            {
+                "type": "number",
+                "paramid": "start",
+                "name": "Start"
+            },
+            {
+                "type": "number",
+                "paramid": "stop",
+                "name": "Stop"
+            },
+            {
+                "type": "number",
+                "paramid": "times",
+                "name": "Times"
+            },
+            {
+                "type": "text",
+                "paramid": "input",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output",
+                "name": "Output FIle"
+            }
+        ],
+        [
+            {
+                "type": "radio",
+                "paramid": "desshu2",
+                "name": [ "Destroy", "Shuffle"],
+                "values": [ "destroy", "shuffle"]
+            },
+            {
+                "type": "number",
+                "paramid": "min2",
+                "name": "Min"
+            },
+            {
+                "type": "number",
+                "paramid": "max2",
+                "name": "Max"
+            },
+            {
+                "type": "number",
+                "paramid": "times2",
+                "name": "Times"
+            },
+            {
+                "type": "text",
+                "paramid": "input2",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output2",
+                "name": "Output FIle"
+            }
+        ],
+        [
+            {
+                "type": "radio",
+                "paramid": "desshu3",
+                "name": [ "Destroy", "Shuffle"],
+                "values": [ "destroy", "shuffle"]
+            },
+            {
+                "type": "number",
+                "paramid": "times3",
+                "name": "Times"
+            },
+            {
+                "type": "text",
+                "paramid": "input3",
+                "name": "Input FIle"
+            },
+            {
+                "type": "text",
+                "paramid": "output3",
+                "name": "Output FIle"
+            }
+        ]
+    ],
+    "html": "",
+    "script": ""
+}

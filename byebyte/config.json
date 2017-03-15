@@ -1,0 +1,91 @@
+{
+    "exc": "byebyte",
+    "param":[
+        [
+            {
+                "id": "desshu",
+                "exc": "",
+                "req": true
+            },
+            {
+                "id": "start",
+                "exc": "--start",
+                "req": true
+            },
+            {
+                "id": "stop",
+                "exc": "--stop",
+                "req": true
+            },
+            {
+                "id": "times",
+                "exc": "-t",
+                "req": true
+            },
+            {
+                "id": "input",
+                "exc": "-i",
+                "req": true
+            },
+            {
+                "id": "output",
+                "exc": "-o",
+                "req": true
+            }
+        ], 
+        [
+            {
+                "id": "desshu2",
+                "exc": "",
+                "req": true
+            },
+            {
+                "id": "min2",
+                "exc": "--min",
+                "req": true
+            },
+            {
+                "id": "max2",
+                "exc": "--max",
+                "req": true
+            },
+            {
+                "id": "times2",
+                "exc": "-t",
+                "req": true
+            },
+            {
+                "id": "input2",
+                "exc": "-i",
+                "req": true
+            },
+            {
+                "id": "output2",
+                "exc": "-o",
+                "req": true
+            }
+        ], 
+        [
+            {
+                "id": "desshu3",
+                "exc": "",
+                "req": true
+            },
+            {
+                "id": "times3",
+                "exc": "-t",
+                "req": true
+            },
+            {
+                "id": "input3",
+                "exc": "-i",
+                "req": true
+            },
+            {
+                "id": "output3",
+                "exc": "-o",
+                "req": true
+            }
+        ]
+    ]
+}
